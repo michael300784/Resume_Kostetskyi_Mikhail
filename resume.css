@@ -1,0 +1,29 @@
+h1 {
+    //color: red;
+
+}
+
+div {
+    align-content: center;
+    border: unset;
+    padding: 10px;
+    /*font-size: 100%;*/
+    }
+.work-experience{
+    /*//padding-top: 10%;
+    //padding-right: 10%;
+    //margin-right: 0px;
+    //border: #0a9746;
+    list-style-position: inside;*/
+    position: absolute; /* Абсолютное позиционирование */
+    bottom: 10px; /* Положение от нижнего края */
+    /*left: 1000mm;*/
+    right: 100mm; /* Положение от правого края */
+    /*line-height: 1px;*/
+    top: 0mm;
+
+
+}
+.skills{
+
+}
