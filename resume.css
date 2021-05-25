@@ -17,13 +17,25 @@ div {
     list-style-position: inside;*/
     position: absolute; /* Абсолютное позиционирование */
     bottom: 10px; /* Положение от нижнего края */
-    /*left: 1000mm;*/
+    padding: 5px;
     right: 100mm; /* Положение от правого края */
     /*line-height: 1px;*/
     top: 0mm;
-
+}
+.title1{
 
 }
-.skills{
-
+.tech-skills-containier{
+    width: 250px;
+    height: 250px;
+    position: relative;
+    top: 50%;
+    left: 5mm;
+    margin: -12px 0 0 -12px;
+    background: #60a839;
+}
+.Template-work-position{
+    position: static;
+    margin-top: -0.77px -077px;
+    padding: 5px;
 }
